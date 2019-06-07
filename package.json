@@ -9,7 +9,7 @@
   "author": "Glenn and Andrew. We're the best",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.19.0",
     "fs": "0.0.1-security",
     "process": "^0.11.10"
   }
